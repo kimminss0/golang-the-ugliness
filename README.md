@@ -2,5 +2,5 @@
 
 > Legends say, they hate Golang.
 
-This repo focuses on detailed implementations rather than general complaints
-like "missing features" or vague criticisms.
+This repository focuses on criticisms of the language specification, rather
+than general complaints like "missing features" or vague criticisms.
